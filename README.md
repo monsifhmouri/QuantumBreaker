@@ -1,84 +1,38 @@
-<h1 align="center">
 🧠 QuantumBreaker
-</h1>
 
-<p align="center">
-💥 Zero-Day Grade Exploit | Admin Bypass | Session Hijack | Untouchable 🔓
-</p>
+💥 Zero-Day Grade Exploit | Admin Bypass | Session Hijack | Untouchable
 
----
+QuantumBreaker is not a tool. It's an event.  
+Created in the silence of the underground.  
+Made for one mission only: breach the unbreachable.
 
-### ⚡ INTRO
+Key Capabilities:
+- Session Token Forgery – Advanced JWT manipulation
+- Header Smuggling – Crafted to bypass modern WAFs
+- Admin Panel Bypass – Break through restricted access areas
+- Silent Execution – No logs, no traces, full control
 
-**QuantumBreaker** is not a tool. It's an *event*.  
-> Developed deep in the blindspots of the surface web.  
-Built for **one objective only**: breach systems thought unbreachable.
+How to Use:
+Launch the executable.
+When asked, enter the URL of the admin panel.
+Example: https://target.com/admin
 
----
+Tested Against:
+- Cloudflare-Protected Applications
+- Token-Based Auth Systems
+- Admin Panels with 2FA or IP Restrictions
+- Hidden panels behind load balancers or proxies
 
-### 🧬 CORE CAPABILITIES
+Build:
+QuantumBreaker.exe (Standalone EXE for Windows 64-bit)
 
-- 🧿 **Session Token Forgery** — Quantum-level JWT manipulation.
-- 🛰️ **Header Pollution / Smuggling** — Weaponized for WAF evasion.
-- 🔓 **Admin Panel Bypass** — Injected override for login gates.
-- 📡 **Zero Interaction Execution** — Executes clean, silent, untraceable.
+No dependencies. No requirements. Just power.
 
----
+Author:
+Mr. Monsif and BlackHatMCA  
+MCA Division — Quantum Ops  
+GhostLine Protocol • Red Command Layer
 
-### 💻 USAGE
-
-QuantumBreaker.exe
-
-pgsql
-Copy
-Edit
-
-When prompted, enter a **target admin panel URL**:
-
-https://target.com/admin
-
-yaml
-Copy
-Edit
-
-And watch the breach unfold.
-
----
-
-### 🔬 ENGINEERED FOR
-
-- 🔐 Cloudflare-Protected Apps
-- 🛡️ Token-Based Auth APIs
-- 🚪 Admin Panels with IP/2FA Restriction
-- 👻 Systems behind Proxies, Load Balancers, or WAFs
-
----
-
-### 🛠️ DEPLOYMENT
-
-Compiled as:
-```bash
-QuantumBreaker.exe (Win64, standalone)
-No Python needed. No dependencies. Portable. Ruthless.
-
-⚠️ NOTICE
-This tool exists only for:
-
-✅ Authorized Bug Bounty engagements
-
-✅ Red team simulations
-
-✅ CTFs and research in sandboxed labs
-
-You are responsible for how you use this code.
-The shadows do not forgive.
-
-👤 AUTHOR
-nginx
-Copy
-Edit
-Monsif Hmouri
-MCA Division — Quantum Division
-0xBlackOps • GhostLine Protocol
-🧠 "You can patch code. But you can't patch human mistakes."
-— QuantumBreaker Philosophy
+Note:
+You are fully responsible for how this code is used.  
+In the underground, there are no second chances.
